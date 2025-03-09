@@ -17,7 +17,7 @@
 
 <br>
 
-### 🕑 Schedule & Members
+### 🕑 Info & Schedule
 
 주 1회 스터디를 진행하며 비대면 하루, 대면 하루 이렇게 진행합니다.
 
@@ -51,15 +51,15 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/markson-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
 👑스터디장</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/markson-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
 클둥이1</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
 클둥이2</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
 클둥이3</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ebeleey"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
 클둥이4</b></sub></a><br /></td>
   </tr>
 </table>
@@ -278,7 +278,7 @@ Closes #45
 
 <br>
 
-## 5. Reference
+## 5. References
 
 다음은 홈서버 구축 관련 블로그 레퍼런스 5개입니다. 한번 읽어보시고, 더 좋은 추가할만한 자료가 있다면 PR을 통해 추가해주세요.
 
