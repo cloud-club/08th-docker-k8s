@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 질문이나 토론이 필요하신가요?
+    url: https://github.com/cloud-club/08th-docker-k8s/discussions
+    about: 질문, 토론, 학습 관련 내용은 GitHub Discussions를 이용해주세요
+  - name: 📚 학습 자료 공유
+    url: https://github.com/cloud-club/08th-docker-k8s/discussions/categories/general
+    about: 학습 자료나 유용한 링크를 공유해주세요

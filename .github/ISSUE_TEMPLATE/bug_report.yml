@@ -1,0 +1,43 @@
+name: Bug Report
+description: 버그 리포트를 작성해주세요
+title: "[Bug] "
+labels: ["bug"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        버그를 신고해주셔서 감사합니다! 다음 정보를 제공해주시면 문제를 빠르게 해결할 수 있습니다.
+
+  - type: textarea
+    id: bug-info
+    attributes:
+      label: 버그 정보
+      description: 버그에 대한 모든 정보를 한 번에 작성해주세요
+      placeholder: |
+        ## 버그 설명
+        [버그가 무엇인지 간단히 설명]
+
+        ## 재현 단계
+        1. '...'로 이동
+        2. '...' 클릭
+        3. '...'까지 스크롤
+        4. 오류 확인
+
+        ## 예상 동작
+        [무엇이 일어나야 했는지 설명]
+
+        ## 실제 동작
+        [실제로 무엇이 일어났는지 설명]
+
+        ## 환경 정보
+        - OS: [예: Windows 10, macOS 12.0, Ubuntu 20.04]
+        - 브라우저: [예: Chrome 91, Firefox 89]
+        - Node.js 버전: [예: 16.14.0]
+        - 기타 관련 정보
+
+        ## 추가 정보
+        [스크린샷, 로그, 에러 메시지 등을 첨부해주세요]
+    validations:
+      required: true

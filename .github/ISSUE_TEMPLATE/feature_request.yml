@@ -1,0 +1,32 @@
+name: Feature Request
+description: 새로운 기능을 제안해주세요
+title: "[Feature] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        새로운 기능을 제안해주셔서 감사합니다! 다음 정보를 제공해주시면 더 나은 제안을 검토할 수 있습니다.
+
+  - type: textarea
+    id: feature-info
+    attributes:
+      label: 기능 제안
+      description: 제안하는 기능에 대한 모든 정보를 한 번에 작성해주세요
+      placeholder: |
+        ## 기능 설명
+        [어떤 기능을 원하시나요?]
+
+        ## 문제점과 해결책
+        **문제**: 현재 어떤 문제가 있나요?
+        **해결책**: 어떻게 해결하고 싶으신가요?
+
+        ## 대안
+        [고려해본 다른 해결책이나 대안이 있다면 작성]
+
+        ## 추가 정보
+        [기능과 관련된 추가 정보, 스크린샷, 참고 자료 등을 작성]
+    validations:
+      required: true

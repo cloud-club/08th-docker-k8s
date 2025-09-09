@@ -1,0 +1,25 @@
+name: General Issue
+description: 다른 템플릿으로 분류되지 않는 일반적인 이슈를 작성해주세요
+title: ""
+labels: ["general"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        이슈를 작성해주셔서 감사합니다! 명확한 정보를 제공해주시면 더 나은 도움을 드릴 수 있습니다.
+
+  - type: textarea
+    id: issue-info
+    attributes:
+      label: 이슈 정보
+      description: 이슈에 대한 모든 정보를 한 번에 작성해주세요
+      placeholder: |
+        ## 이슈 설명
+        [어떤 이슈인지 설명해주세요]
+
+        ## 추가 정보
+        [이슈와 관련된 추가 정보, 스크린샷, 로그 등을 작성해주세요]
+    validations:
+      required: true
