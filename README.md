@@ -28,7 +28,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/97tkddnjs">
-        <img src="https://avatars.githubusercontent.com/u/46413809?v=4" width="100px;" alt="kimyounghee"/>
+        <img src="https://avatars.githubusercontent.com/u/46413809?v=4" width="100px;" alt="97tkddnjs"/>
         <br />
         <sub><b>이상원</b></sub>
       </a>
@@ -37,7 +37,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Seo-yul">
-        <img src="https://avatars.githubusercontent.com/u/19742930?v=4" width="100px;" alt="kimchulsoo"/>
+        <img src="https://avatars.githubusercontent.com/u/19742930?v=4" width="100px;" alt="seoyul"/>
         <br />
         <sub><b>윤서율</b></sub>
       </a>
@@ -202,13 +202,16 @@ mkdir week1 week2 week3 week4 week5 week6 week7 week8
 
 | 참여자 | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **김민준** | ✅ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| **이지훈** | ✅ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| **송하영** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| **박지원** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| **이채영** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| **이나경** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| **백지헌** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **이상원** | ✅ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **윤서율** | ✅ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **권시경** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **김승현** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **김지유** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **김지현** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **양효빈** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **이수민** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **이주원** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| **최도아** | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 **범례:**
 - ✅ 출석

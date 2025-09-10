@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: 💬 질문이나 토론이 필요하신가요?
     url: https://github.com/cloud-club/08th-docker-k8s/discussions
