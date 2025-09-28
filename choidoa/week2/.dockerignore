@@ -1,0 +1,17 @@
+# Python cache/build files
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Git-related files
+.git/
+.gitignore
+
+# Documentation
+*.md
