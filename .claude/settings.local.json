@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(screencapture:*)",
+      "Read(//Users/macapple/Desktop/**)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(mkdir:*)",
+      "Bash(docker build:*)",
+      "Bash(open:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
