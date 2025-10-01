@@ -6,10 +6,10 @@
 
 ```dockerfile
 # 빌드용 JDK 이미지
-FROM eclipse-temurin:21-jdk-jammy AS jdk
+FROM eclipse-temurin:17-jdk-jammy AS jdk
 
 # 실행용 JRE 이미지 (크기 최소화)
-FROM eclipse-temurin:21-jre-jammy AS jre
+FROM eclipse-temurin:17-jre-jammy AS jre
 
 # 애플리케이션 빌드
 FROM jdk AS builder
