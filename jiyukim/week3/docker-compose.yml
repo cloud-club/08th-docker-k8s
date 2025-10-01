@@ -1,0 +1,49 @@
+version: "3.8"
+
+services:
+  # Node.js API 서버
+  app:
+    build: ./app
+    ports:
+      - "3000:3000" # 외부에서 컨테이너에 접근하기 위해 포트 매핑 필요
+    environment:
+      - NODE_ENV=production
+      - MONGODB_URI=mongodb://mongo:27017/todoapp
+      - REDIS_URL=redis://redis:6379
+    depends_on: 
+      - mongo
+      - redis
+    restart: unless-stopped
+    networks:
+      - todo-network
+
+  # MongoDB 데이터베이스
+  mongo:
+    image: mongo:7
+    # ports:
+    #   - "27017:27017" # 같은 네트워크(todo-network)에 속한 컨테이너 간 통신이기 때문에 포트 매핑 불필요
+    volumes:
+      - mongo_data:/data/db
+    restart: unless-stopped
+    networks:
+      - todo-network
+
+  # Redis 캐시
+  redis:
+    image: redis:7-alpine
+    # ports:
+    #   - "6379:6379" # 같은 네트워크(todo-network)에 속한 컨테이너 간 통신이기 때문에 포트 매핑 불필요
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    networks:
+      - todo-network
+
+volumes:
+  mongo_data:
+  redis_data:
+
+# 컨테이너 격리 및 그룹화 
+networks:
+  todo-network: # 가상 네트워크 생성 - 같은 네트워크에 포함된 서비스들은 서로 통신 가능
+    driver: bridge
