@@ -1,0 +1,8 @@
+streamlit
+open-clip-torch
+torch
+torchvision
+Pillow
+numpy
+chromadb
+transformers
