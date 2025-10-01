@@ -81,9 +81,9 @@ EXPOSE 8080
 
 2. Docker 컨테이너 실행 확인
 ![alt text](result2.png)
-qbit-api: 백엔드 애플리케이션 (포트 8080)
-qbit-redis: Redis 캐시 서버 (포트 6379)
-qbit-postgres: PostgreSQL 데이터베이스 (포트 5432)
+- qbit-api: 백엔드 애플리케이션 (포트 8080)
+- qbit-redis: Redis 캐시 서버 (포트 6379)
+- qbit-postgres: PostgreSQL 데이터베이스 (포트 5432)
 
 3. Swagger UI 접속 성공
 ![alt text](result3.png)
